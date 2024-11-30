@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\davide.genito\\Downloads\\Dice\\Dice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27308BED-3AE4-4B6C-A7B2-39A24EBE2F65}|DiceLaunch\\DiceLaunch.csproj|c:\\users\\davide.genito\\downloads\\dice\\dice\\dicelaunch\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27308BED-3AE4-4B6C-A7B2-39A24EBE2F65}|DiceLaunch\\DiceLaunch.csproj|solutionrelative:dicelaunch\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27308BED-3AE4-4B6C-A7B2-39A24EBE2F65}|DiceLaunch\\DiceLaunch.csproj|c:\\users\\davide.genito\\downloads\\dice\\dice\\dicelaunch\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27308BED-3AE4-4B6C-A7B2-39A24EBE2F65}|DiceLaunch\\DiceLaunch.csproj|solutionrelative:dicelaunch\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0294B179-0C1D-4575-B980-2024DC6D1E38}|TestDice\\TestDice.csproj|c:\\users\\davide.genito\\downloads\\dice\\dice\\testdice\\playertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0294B179-0C1D-4575-B980-2024DC6D1E38}|TestDice\\TestDice.csproj|solutionrelative:testdice\\playertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0294B179-0C1D-4575-B980-2024DC6D1E38}|TestDice\\TestDice.csproj|c:\\users\\davide.genito\\downloads\\dice\\dice\\testdice\\gametests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0294B179-0C1D-4575-B980-2024DC6D1E38}|TestDice\\TestDice.csproj|solutionrelative:testdice\\gametests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameTests.cs",
+              "DocumentMoniker": "C:\\Users\\davide.genito\\Downloads\\Dice\\Dice\\TestDice\\GameTests.cs",
+              "RelativeDocumentMoniker": "TestDice\\GameTests.cs",
+              "ToolTip": "C:\\Users\\davide.genito\\Downloads\\Dice\\Dice\\TestDice\\GameTests.cs",
+              "RelativeToolTip": "TestDice\\GameTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:09:57.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerTests.cs",
+              "DocumentMoniker": "C:\\Users\\davide.genito\\Downloads\\Dice\\Dice\\TestDice\\PlayerTests.cs",
+              "RelativeDocumentMoniker": "TestDice\\PlayerTests.cs",
+              "ToolTip": "C:\\Users\\davide.genito\\Downloads\\Dice\\Dice\\TestDice\\PlayerTests.cs",
+              "RelativeToolTip": "TestDice\\PlayerTests.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T11:04:26.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\davide.genito\\Downloads\\Dice\\Dice\\DiceLaunch\\Player.cs",
+              "RelativeDocumentMoniker": "DiceLaunch\\Player.cs",
+              "ToolTip": "C:\\Users\\davide.genito\\Downloads\\Dice\\Dice\\DiceLaunch\\Player.cs",
+              "RelativeToolTip": "DiceLaunch\\Player.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAwwEsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T08:20:01.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\davide.genito\\Downloads\\Dice\\Dice\\DiceLaunch\\Game.cs",
+              "RelativeDocumentMoniker": "DiceLaunch\\Game.cs",
+              "ToolTip": "C:\\Users\\davide.genito\\Downloads\\Dice\\Dice\\DiceLaunch\\Game.cs",
+              "RelativeToolTip": "DiceLaunch\\Game.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wBAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T07:16:34.785Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

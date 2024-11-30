@@ -1,0 +1,11 @@
+C:\Users\davide.genito\Downloads\Dice\Dice\DiceLaunch\bin\Debug\net8.0\DiceLaunch.deps.json
+C:\Users\davide.genito\Downloads\Dice\Dice\DiceLaunch\bin\Debug\net8.0\DiceLaunch.dll
+C:\Users\davide.genito\Downloads\Dice\Dice\DiceLaunch\bin\Debug\net8.0\DiceLaunch.pdb
+C:\Users\davide.genito\Downloads\Dice\Dice\DiceLaunch\obj\Debug\net8.0\DiceLaunch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davide.genito\Downloads\Dice\Dice\DiceLaunch\obj\Debug\net8.0\DiceLaunch.AssemblyInfoInputs.cache
+C:\Users\davide.genito\Downloads\Dice\Dice\DiceLaunch\obj\Debug\net8.0\DiceLaunch.AssemblyInfo.cs
+C:\Users\davide.genito\Downloads\Dice\Dice\DiceLaunch\obj\Debug\net8.0\DiceLaunch.csproj.CoreCompileInputs.cache
+C:\Users\davide.genito\Downloads\Dice\Dice\DiceLaunch\obj\Debug\net8.0\DiceLaunch.dll
+C:\Users\davide.genito\Downloads\Dice\Dice\DiceLaunch\obj\Debug\net8.0\refint\DiceLaunch.dll
+C:\Users\davide.genito\Downloads\Dice\Dice\DiceLaunch\obj\Debug\net8.0\DiceLaunch.pdb
+C:\Users\davide.genito\Downloads\Dice\Dice\DiceLaunch\obj\Debug\net8.0\ref\DiceLaunch.dll

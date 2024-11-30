@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dice", "Dice\Dice.csproj", "{EB769C25-ECEB-4417-B7E9-1D4EB6149B7C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiceLaunch", "DiceLaunch\DiceLaunch.csproj", "{27308BED-3AE4-4B6C-A7B2-39A24EBE2F65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDice", "TestDice\TestDice.csproj", "{0294B179-0C1D-4575-B980-2024DC6D1E38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB769C25-ECEB-4417-B7E9-1D4EB6149B7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB769C25-ECEB-4417-B7E9-1D4EB6149B7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB769C25-ECEB-4417-B7E9-1D4EB6149B7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB769C25-ECEB-4417-B7E9-1D4EB6149B7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27308BED-3AE4-4B6C-A7B2-39A24EBE2F65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27308BED-3AE4-4B6C-A7B2-39A24EBE2F65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27308BED-3AE4-4B6C-A7B2-39A24EBE2F65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27308BED-3AE4-4B6C-A7B2-39A24EBE2F65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0294B179-0C1D-4575-B980-2024DC6D1E38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0294B179-0C1D-4575-B980-2024DC6D1E38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0294B179-0C1D-4575-B980-2024DC6D1E38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0294B179-0C1D-4575-B980-2024DC6D1E38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58E4B1C3-8570-4622-B700-7CDF90ECD338}
+	EndGlobalSection
+EndGlobal

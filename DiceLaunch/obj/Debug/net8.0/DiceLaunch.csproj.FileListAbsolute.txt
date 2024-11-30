@@ -9,3 +9,4 @@ C:\Users\davide.genito\Downloads\Dice\Dice\DiceLaunch\obj\Debug\net8.0\DiceLaunc
 C:\Users\davide.genito\Downloads\Dice\Dice\DiceLaunch\obj\Debug\net8.0\refint\DiceLaunch.dll
 C:\Users\davide.genito\Downloads\Dice\Dice\DiceLaunch\obj\Debug\net8.0\DiceLaunch.pdb
 C:\Users\davide.genito\Downloads\Dice\Dice\DiceLaunch\obj\Debug\net8.0\ref\DiceLaunch.dll
+C:\Users\davide.genito\Downloads\Dice\Dice\DiceLaunch\obj\Debug\net8.0\DiceLaunch.sourcelink.json

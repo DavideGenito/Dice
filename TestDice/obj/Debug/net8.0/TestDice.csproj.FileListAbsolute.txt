@@ -112,3 +112,4 @@ C:\Users\davide.genito\Downloads\Dice\Dice\TestDice\obj\Debug\net8.0\refint\Test
 C:\Users\davide.genito\Downloads\Dice\Dice\TestDice\obj\Debug\net8.0\TestDice.pdb
 C:\Users\davide.genito\Downloads\Dice\Dice\TestDice\obj\Debug\net8.0\TestDice.genruntimeconfig.cache
 C:\Users\davide.genito\Downloads\Dice\Dice\TestDice\obj\Debug\net8.0\ref\TestDice.dll
+C:\Users\davide.genito\Downloads\Dice\Dice\TestDice\obj\Debug\net8.0\TestDice.sourcelink.json

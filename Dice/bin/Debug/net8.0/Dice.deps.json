@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Dice/1.0.0": {
+        "dependencies": {
+          "DiceLaunch": "1.0.0"
+        },
+        "runtime": {
+          "Dice.dll": {}
+        }
+      },
+      "DiceLaunch/1.0.0": {
+        "runtime": {
+          "DiceLaunch.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DiceLaunch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

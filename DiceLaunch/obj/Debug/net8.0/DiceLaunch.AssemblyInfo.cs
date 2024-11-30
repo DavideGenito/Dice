@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DiceLaunch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b9c83619c6662c53880dd6b788fae61a50e7d46")]
 [assembly: System.Reflection.AssemblyProductAttribute("DiceLaunch")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DiceLaunch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

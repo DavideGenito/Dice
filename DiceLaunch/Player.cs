@@ -32,7 +32,7 @@
             _points = new int[numLaunches];
         }
 
-        public int[] InWhatLaunch(bool isPlayer1, int num)
+        public int[] InWhatLaunch(int num)
         {
             if (num < 1 || num > FACE) throw new ArgumentOutOfRangeException("Num need to be a valid number");
             int j = 0;
@@ -54,10 +54,10 @@
             return Counters[num - 1];
         }
 
-        public int FrequencyPlayerNum(int num)
+        public double FrequencyPlayerNum(int num)
         {
             if (num < 1 || num > FACE) throw new ArgumentOutOfRangeException("Num need to be a valid number");
-            return Counters[num - 1] / Points.Length * 100;
+            return (double)Counters[num - 1] / Points.Length * 100;
         }
 
         internal bool isValid()

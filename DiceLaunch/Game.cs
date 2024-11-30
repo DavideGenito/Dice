@@ -41,10 +41,27 @@
 
         }
 
-        public int FrequencyTurnNum(int num)
+        public double FrequencyTurnNum(int num)
         {
             if (num < 1 || num > 6) throw new ArgumentOutOfRangeException("Num need to be a valid number");
-            return (Player1.Counters[num - 1] + Player2.Counters[num - 1]) / (Player1.Points.Length * 2) * 100;
+            return (double)(Player1.Counters[num - 1] + Player2.Counters[num - 1]) / (Player1.Points.Length * 2) * 100;
+        }
+
+        public int[] InWhatLaunch(int num)
+        {
+            if (num < 1 || num > 6) throw new ArgumentOutOfRangeException("Num need to be a valid number");
+            int[] player1 = Player1.InWhatLaunch(num);
+            int[] player2 = Player2.InWhatLaunch(num);
+            int[] result = new int[player1.Length + player2.Length];
+            for(int i=0; i< player1.Length; i++)
+            {
+                result[i] = player1[i];
+            }
+            for(int j=0; j< player2.Length; j++)
+            {
+                result[j+ player1.Length] = player2[j];
+            }
+            return result;
         }
     }
 }

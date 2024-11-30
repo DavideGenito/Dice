@@ -64,7 +64,7 @@
         {
             int count = 0;
             bool valid = true;
-            while (valid && count<6)
+            while (valid && count < 6)
             {
                 if (Counters[count] > Points.Length / 2) valid = false;
                 count++;
@@ -78,7 +78,7 @@
             int num;
             for (int i = 0; i < Points.Length; i++)
             {
-                num = rand.Next(1, FACE+1);
+                num = rand.Next(1, FACE + 1);
                 Points[i] = num;
                 Counters[num - 1]++;
             }

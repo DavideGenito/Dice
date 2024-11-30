@@ -15,6 +15,6 @@ namespace TestDice
         {
             Assert.ThrowsException<ArgumentOutOfRangeException>(() => new Player(0));
         }
-    
+
     }
 }

@@ -1,14 +1,12 @@
-﻿using System.Security.Cryptography.X509Certificates;
-
-namespace DiceLaunch
+﻿namespace DiceLaunch
 {
     public enum Result
     {
-        Player1Win,
-        Player2Win,
-        Player1Invalid,
-        Player2Invalid,
-        Draw
+        PLAYER1WIN,
+        PLAYER2WIN,
+        PLAYER1INVALID,
+        PLAYER2INVALID,
+        DRAW
     }
 
     public class Game
@@ -25,20 +23,20 @@ namespace DiceLaunch
         public Result DoTurn()
         {
             Player1.launch();
-            if (!Player1.isValid()) return Result.Player1Invalid;
+            if (!Player1.isValid()) return Result.PLAYER1INVALID;
             Player2.launch();
-            if (!Player2.isValid()) return Result.Player2Invalid;
-            if (Player1.TotPoints>Player2.TotPoints)
+            if (!Player2.isValid()) return Result.PLAYER2INVALID;
+            if (Player1.TotPoints > Player2.TotPoints)
             {
-                return Result.Player1Win;
+                return Result.PLAYER1WIN;
             }
-            else if (Player2.TotPoints>Player1.TotPoints)
+            else if (Player2.TotPoints > Player1.TotPoints)
             {
-                return Result.Player2Win;
+                return Result.PLAYER2WIN;
             }
             else
             {
-                return Result.Draw;
+                return Result.DRAW;
             }
 
         }
@@ -46,7 +44,7 @@ namespace DiceLaunch
         public int FrequencyTurnNum(int num)
         {
             if (num < 1 || num > 6) throw new ArgumentOutOfRangeException("Num need to be a valid number");
-            return (Player1.Counters[num - 1] + Player2.Counters[num-1]) / (Player1.Points.Length * 2) * 100;
+            return (Player1.Counters[num - 1] + Player2.Counters[num - 1]) / (Player1.Points.Length * 2) * 100;
         }
     }
 }
